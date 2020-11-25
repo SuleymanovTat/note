@@ -1,4 +1,4 @@
-package ru.suleymanovtat.Note;
+package ru.suleymanovtat.note;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
